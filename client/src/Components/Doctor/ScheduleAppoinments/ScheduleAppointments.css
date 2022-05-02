@@ -1,0 +1,7 @@
+.appointment__main{
+    height: 100vh;
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background: linear-gradient(23deg, #7577F6, transparent);
+}

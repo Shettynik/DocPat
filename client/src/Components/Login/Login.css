@@ -1,0 +1,24 @@
+.login__title{
+    font-weight: 500;
+}
+
+.login__btn{
+    background-color: #07087D;
+    color: white;
+    border: 1px solid #07087D;
+    margin-right: 15px;
+    padding: 10px 100px;
+    margin-left: 100px;
+}
+
+/* style={{backgroundColor: "rgb(103, 110, 248)", padding: "10px 100px", marginLeft: "100px" }} */
+
+.login__btn:hover{
+    background-color: #151796;
+}
+
+.form__input{
+    margin-bottom: 7px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}

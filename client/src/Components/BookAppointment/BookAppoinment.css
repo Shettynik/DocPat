@@ -1,0 +1,32 @@
+.book__appointment__main{
+    height: 100vh;
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background: linear-gradient(23deg, #7577F6, transparent);
+}
+
+
+.booking__spinner{
+    display: flex;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub__heading{
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.booking__btn{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.book_head{
+    font-size: 2rem;
+    margin-bottom: 40px;
+    padding-bottom: 2px;
+    font-weight: 700;
+}

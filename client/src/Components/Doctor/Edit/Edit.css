@@ -1,0 +1,80 @@
+.doctor__edit{
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background: linear-gradient(23deg, #7577F6, transparent);
+}
+
+.file__input{
+    padding: 20px;
+}
+
+.edit__add__btn, .edit__save__btn{
+    padding: 10px 45px;
+    background-color: #07087D;
+    border-radius: 20px;
+    border: 1px solid #07087D;
+    color: white;
+}
+
+.edit__save__btn{
+    padding: 15px 70px;
+}
+
+.edit__list__btn{
+    padding: 7px 30px;
+    border-radius: 20px;
+    background-color: rgb(232, 225, 225);
+    border: 1px solid rgb(232, 225, 225);
+    color: #07087D;
+    font-weight: 700;
+    box-shadow: 0px 1px 8px #07087D;
+}
+
+.edit__list__btn:hover{
+    padding: 12px 32px;
+}
+
+.edit__profile__image{
+    width: 20vw;
+    margin: auto;
+    text-align: center;
+}
+
+.edit__form__label{
+    font-weight: 700;
+    color: #07087D;
+}
+
+.edit__form__input{
+    background-color: #7577F6;
+    border-radius: 10px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.edit__main__btn{
+    text-align: center;
+}
+
+.view__form__group{
+    margin: 20px 0px 40px 0px;
+}
+
+.specializations__form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.specializations__input{
+    width: 320px;
+    background-color: #7577F6;
+    border-radius: 10px;
+    padding: 10px 15px;
+    color: white;
+}
+
+.cross{
+    color: red;
+    font-weight: 700;
+}
